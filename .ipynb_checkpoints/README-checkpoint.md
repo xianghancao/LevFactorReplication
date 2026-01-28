@@ -1,4 +1,6 @@
 # LevFactor Replication 
+Code for Article: "Revisiting Financial Intermediaries and Asset Prices: Data Revisions and Post-Crisis Performance" Xianghan Cao, University of Oulu, PhD student of GSF
+
 LevFactor from Adrian et al.(2014): *Financial Intermediaries and the Cross-Section of Asset Returns* 
 
 ## Intro:
